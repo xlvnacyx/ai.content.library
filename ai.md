@@ -115,8 +115,6 @@ This is where things may get a little dicey. Plugins are great tools, but care m
 - [Custom File Explorer sorting](https://github.com/SebastianMC/obsidian-custom-sort) 
 - [Iconize](https://github.com/FlorianWoelki/obsidian-iconize) 
 - [PDF++](https://github.com/RyotaUshio/obsidian-pdf-plus) 
-- [Note Definitions](https://github.com/dominiclet/obsidian-note-definitions) 
-- [Frontmatter Markdown Links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links) 
 
 When importing a library into a vault, install these plugins first.
 
