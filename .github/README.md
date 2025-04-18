@@ -36,10 +36,9 @@ Interested in using or contributing to the library?
         git submodule add git@github.com:ephemeralrogue/ai.content.library ai
         ```
 
-        > [!important]
-        > This uses git submodules to import a project into an existing git 
-        > directory and manage it separately. This method assumes you are using git 
-        > to manage and backup your vault.
+        *Note: This uses git submodules to import a project into an existing 
+        git directory and manage it separately. This method assumes you are 
+        using git to manage and backup your vault.*
 
         Use git commands within the library's directory as normal.
 
@@ -49,10 +48,9 @@ Interested in using or contributing to the library?
         git clone git@github.com:ephemeralrogue/ai.content.library ai
         ```
 
-        > [!important]
-        > This method assumes you are **not** using git to manage your 
-        > Obsidian vault and will be working from this directory as its own 
-        > git entity.
+        *Note: This method assumes you are **not** using git to manage your 
+        Obsidian vault and will be working from this directory as its own git 
+        entity.*
 
     3. **Download** the `.zip` and unpack it in your vault. This method assumes no 
     desire to contribute back to this library, but rather to make use of 
